@@ -1,0 +1,3 @@
+{
+  "query": "{ viewer { login avatarUrl bio createdAt followers { totalCount } following { totalCount } name repositories { totalCount }}}"
+}
